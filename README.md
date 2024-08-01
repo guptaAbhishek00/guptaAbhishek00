@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Abhishek Gupta</h1>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src=""C:\Users\HP\Desktop\programmer.gif"">
 <h3 align="center">I'm an Undergrad Student🎓 @SPIT Mumbai pursuing CSE. I'm a Tech Enthusiast 💻 😃 passionate about learning and working with trending ⚡ technology ⚡. A strong leader who works well under pressure, and exudes positivity. Committed to working as a collaborative and positive team member, striving to utilize my knowledge and expertise for optimal engineering results. Always ready to learn new things.I'm keenly interested in web development, with a focus on backend development, as well as machine learning. I'm drawn to crafting seamless user experiences through web applications, while also diving into the intricacies of backend processes.</h3>
 
 - 📫 How to reach me **abhishekgupta.adhi@gmail.con**
